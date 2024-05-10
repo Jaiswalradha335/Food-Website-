@@ -1,4 +1,4 @@
-#  Food Website
+ Food Website
 
 Welcome a mouthwatering food website where you can explore a variety of delicious recipes, culinary tips, and much more!
 
@@ -10,11 +10,11 @@ Welcome a mouthwatering food website where you can explore a variety of deliciou
 - Contributing
 
 
-#Introduction
+Introduction
 
 Food Store is a responsive and visually appealing food website built using HTML and CSS. It aims to provide users with an enjoyable browsing experience while discovering delectable recipes, food-related articles, and cooking inspiration.
 
-#Features
+Features
 
 - Recipes: Explore a wide range of recipes categorized by cuisine, dietary preferences, and meal types.
 - Cooking Tips: Discover helpful cooking tips, techniques, and tricks from seasoned chefs.
@@ -22,7 +22,7 @@ Food Store is a responsive and visually appealing food website built using HTML 
 - Responsive Design: Enjoy seamless browsing across various devices including desktops, tablets, and smartphones.
 - Easy Navigation: Navigate through the website effortlessly with a user-friendly interface and intuitive menu structure.
 
-#Usage
+Usage
 
 To access Food Store, simply open your web browser and enter the URL of the website. Once on the homepage, you can start exploring different recipes, articles,
 and tips by clicking on the respective categories or using the search bar.
@@ -35,7 +35,7 @@ To run the website locally on your machine:
 
 Feel free to customize the website according to your preferences by modifying the HTML and CSS files.
 
-#Contributing
+Contributing
 
 Contributions Food Store are welcome! If you'd like to contribute new recipes, cooking tips, or enhancements to the website, please follow these steps:
 
